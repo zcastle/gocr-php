@@ -17,7 +17,7 @@ This project makes easier the use of the OCR software named GOCR.
 ## Installation
 
 ```bash
-$ composer require shinbuntu/gocr-php
+$ composer require zcastle/gocr-php
 ```
 
 ## Usage
