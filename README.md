@@ -1,4 +1,4 @@
-# ATENCION ESTE PROYECTO ES UN FORK DE https://github.com/stephane-monnot/gocr-php SE ACTUALIZO EL CODIGO PARA QUE SOPORTE VERSIONES SUPERIORES DE PHP 5.6
+## ATENCION ESTE PROYECTO ES UN FORK DE https://github.com/stephane-monnot/gocr-php SE ACTUALIZO EL CODIGO PARA QUE SOPORTE VERSIONES SUPERIORES DE PHP 5.6
 
 ## Agradecemos a stephane-monnot por el proyecto original
 
